@@ -1,0 +1,6 @@
+{
+  "name": "Yaraan Corporation",
+  "description": "A comprehensive cloud-based HRM platform with multi-role dashboards, lifecycle management, payroll calculation, recruitment, attendance, leaves, and Gemini AI-powered document generation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
